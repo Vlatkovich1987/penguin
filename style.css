@@ -198,6 +198,10 @@ main {
   .top-banner img.logo {
     margin: 10px auto;
   }
+
+  section .links {
+    display: none;
+  }
 }
 
 
