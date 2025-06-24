@@ -199,9 +199,10 @@ main {
     margin: 10px auto;
   }
 
-  section .links {
+  .links {
     display: none;
   }
+  
 }
 
 
