@@ -6,12 +6,12 @@ body {
 
 /* === Header and Footer === */
 header {
-  background-image: url("images/header.jpg");
+  background-image: url("images/Header.jpg");
   background-repeat: repeat;
   color: white;
 }
 footer {
-  background-image: url("images/footer.jpg");
+  background-image: url("images/Footer.jpg");
   background-repeat: repeat;
   color: black;
   text-align: center;
